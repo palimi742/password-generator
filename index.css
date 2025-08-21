@@ -1,0 +1,62 @@
+body {
+    background-color: #1F2937;
+}
+#title{
+    font-family: "Karla", sans-serif;
+    font-weight: bolder;
+    color: white;
+    font-size: 40px;
+    margin: 0px;
+}
+.green-text{
+    color: #4ADF86
+}
+#wrapper{
+    height: 50px;
+    width: 360px;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+#caption{
+    margin-top: 15px;
+    color: #D5D4D8;
+    font-size: 20px;
+    width: 400px;
+    font-family: "Inter", sans-serif
+}
+#generate-btn{
+    margin-top: 50px;
+    background-color: #10B981;
+    border: none;
+    color: #FFFFFF;
+    padding: 9px 17px;
+    border-radius: 10px;
+    width: 191px;
+    height: 42px;
+    text-shadow: 0px 0px 4px black;
+}
+#gray-line{
+    margin-top: 50px;
+    width: 430px;
+    border: none;
+    height: 1px;
+    border-bottom: 2px solid #2F3E53;
+}
+#button-wrapper{
+    margin-top: 50px;
+    display: flex;
+    gap: 30px
+}
+.password-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Inter", sans-serif;
+    color: #55F991;
+    background-color: #273549;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 90px;
+    width: 211px;
+    height: 40px;
+}
